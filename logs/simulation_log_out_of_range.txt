@@ -1,0 +1,55 @@
+DEBUG (1): Application booted.
+DEBUG (2): Application booted.
+DEBUG (1): Radio started.
+DEBUG (2): Radio started.
+DEBUG (1): Pairing packet sent.
+DEBUG (2): Pairing packet sent.
+DEBUG (1): Pairing packet received with same key.
+DEBUG (1): Paired with node 2.
+DEBUG (2): Pairing packet received with same key.
+DEBUG (2): Paired packet sent.
+DEBUG (2): Paired with node 1.
+DEBUG (2): Status packet sent with position (45267, 1677).
+DEBUG (1): Status packet received (STATUS = 0, X = 45267, Y = 1677).
+DEBUG (1): STANDING (45267, 1677).
+DEBUG (2): Status packet sent with position (9863, 1677).
+DEBUG (1): Status packet received (STATUS = 1, X = 9863, Y = 1677).
+DEBUG (1): WALKING (9863, 1677).
+DEBUG (2): Status packet sent with position (7676, 36952).
+DEBUG (1): Status packet received (STATUS = 2, X = 7676, Y = 36952).
+DEBUG (1): RUNNING (7676, 36952).
+DEBUG (2): Status packet sent with position (51657, 36299).
+DEBUG (1): Status packet received (STATUS = 1, X = 51657, Y = 36299).
+DEBUG (1): WALKING (51657, 36299).
+DEBUG (2): Status packet sent with position (37798, 46336).
+DEBUG (1): Status packet received (STATUS = 2, X = 37798, Y = 46336).
+DEBUG (1): RUNNING (37798, 46336).
+DEBUG (2): Status packet sent with position (43847, 32281).
+DEBUG (1): Status packet received (STATUS = 1, X = 43847, Y = 32281).
+DEBUG (1): WALKING (43847, 32281).
+DEBUG (2): Status packet sent with position (56316, 49971).
+DEBUG (1): Status packet received (STATUS = 1, X = 56316, Y = 49971).
+DEBUG (1): WALKING (56316, 49971).
+DEBUG (2): Status packet sent with position (49800, 35470).
+DEBUG (1): Status packet received (STATUS = 2, X = 49800, Y = 35470).
+DEBUG (1): RUNNING (49800, 35470).
+DEBUG (2): Status packet sent with position (13536, 41233).
+DEBUG (1): Status packet received (STATUS = 2, X = 13536, Y = 41233).
+DEBUG (1): RUNNING (13536, 41233).
+DEBUG (2): Status packet sent with position (26265, 33857).
+DEBUG (1): Status packet received (STATUS = 1, X = 26265, Y = 33857).
+DEBUG (1): WALKING (26265, 33857).
+DEBUG (2): Status packet sent with position (7608, 55063).
+DEBUG (1): Status packet received (STATUS = 1, X = 7608, Y = 55063).
+DEBUG (1): WALKING (7608, 55063).
+DEBUG (2): Status packet sent with position (52008, 11736).
+DEBUG (1): Status packet received (STATUS = 0, X = 52008, Y = 11736).
+DEBUG (1): STANDING (52008, 11736).
+DEBUG (1): MISSING, last position = (52008, 11736).
+DEBUG (1): MISSING ALARM, last position = (52008, 11736).
+DEBUG (1): MISSING, last position = (52008, 11736).
+DEBUG (1): MISSING ALARM, last position = (52008, 11736).
+DEBUG (1): MISSING, last position = (52008, 11736).
+DEBUG (1): MISSING ALARM, last position = (52008, 11736).
+DEBUG (1): MISSING, last position = (52008, 11736).
+DEBUG (1): MISSING ALARM, last position = (52008, 11736).

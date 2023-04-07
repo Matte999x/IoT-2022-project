@@ -1,0 +1,102 @@
+DEBUG (1): Application booted.
+DEBUG (4): Application booted.
+DEBUG (3): Application booted.
+DEBUG (2): Application booted.
+DEBUG (1): Radio started.
+DEBUG (2): Radio started.
+DEBUG (4): Radio started.
+DEBUG (3): Radio started.
+DEBUG (2): Pairing packet sent.
+DEBUG (3): Pairing packet sent.
+DEBUG (1): Pairing packet sent.
+DEBUG (4): Pairing packet sent.
+DEBUG (4): Discarding packed with wrong key.
+DEBUG (3): Discarding packed with wrong key.
+DEBUG (1): Pairing packet received with same key.
+DEBUG (1): Paired with node 2.
+DEBUG (4): Pairing packet received with same key.
+DEBUG (4): Paired with node 3.
+DEBUG (2): Discarding packed with wrong key.
+DEBUG (1): Discarding packed with wrong key.
+DEBUG (3): Pairing packet received with same key.
+DEBUG (3): Paired packet sent.
+DEBUG (3): Paired with node 4.
+DEBUG (2): Discarding packed with wrong key.
+DEBUG (4): Discarding packed with wrong key.
+DEBUG (2): Pairing packet received with same key.
+DEBUG (2): Paired packet sent.
+DEBUG (2): Paired with node 1.
+DEBUG (3): Discarding packed with wrong key.
+DEBUG (4): Status packet sent with position (9909, 24640).
+DEBUG (3): Status packet received (STATUS = 3, X = 9909, Y = 24640).
+DEBUG (3): FALLING (9909, 24640).
+DEBUG (3): FALL ALARM (9909, 24640).
+DEBUG (2): Status packet sent with position (45267, 1677).
+DEBUG (1): Status packet received (STATUS = 0, X = 45267, Y = 1677).
+DEBUG (1): STANDING (45267, 1677).
+DEBUG (4): Status packet sent with position (38284, 24640).
+DEBUG (2): Status packet sent with position (9863, 1677).
+DEBUG (1): Status packet received (STATUS = 1, X = 9863, Y = 1677).
+DEBUG (1): WALKING (9863, 1677).
+DEBUG (3): Status packet received (STATUS = 0, X = 38284, Y = 24640).
+DEBUG (3): STANDING (38284, 24640).
+DEBUG (4): Status packet sent with position (12793, 17897).
+DEBUG (2): Status packet sent with position (7676, 36952).
+DEBUG (3): Status packet received (STATUS = 2, X = 12793, Y = 17897).
+DEBUG (3): RUNNING (12793, 17897).
+DEBUG (1): Status packet received (STATUS = 2, X = 7676, Y = 36952).
+DEBUG (1): RUNNING (7676, 36952).
+DEBUG (4): Status packet sent with position (64249, 60498).
+DEBUG (2): Status packet sent with position (51657, 36299).
+DEBUG (3): Status packet received (STATUS = 3, X = 64249, Y = 60498).
+DEBUG (3): FALLING (64249, 60498).
+DEBUG (3): FALL ALARM (64249, 60498).
+DEBUG (1): Status packet received (STATUS = 1, X = 51657, Y = 36299).
+DEBUG (1): WALKING (51657, 36299).
+DEBUG (4): Status packet sent with position (19306, 11691).
+DEBUG (3): Status packet received (STATUS = 1, X = 19306, Y = 11691).
+DEBUG (3): WALKING (19306, 11691).
+DEBUG (2): Status packet sent with position (37798, 46336).
+DEBUG (1): Status packet received (STATUS = 2, X = 37798, Y = 46336).
+DEBUG (1): RUNNING (37798, 46336).
+DEBUG (4): Status packet sent with position (7542, 10111).
+DEBUG (2): Status packet sent with position (43847, 32281).
+DEBUG (1): Status packet received (STATUS = 1, X = 43847, Y = 32281).
+DEBUG (1): WALKING (43847, 32281).
+DEBUG (4): Status packet sent with position (28324, 17749).
+DEBUG (2): Status packet sent with position (56316, 49971).
+DEBUG (3): Status packet received (STATUS = 1, X = 28324, Y = 17749).
+DEBUG (3): WALKING (28324, 17749).
+DEBUG (1): Status packet received (STATUS = 1, X = 56316, Y = 49971).
+DEBUG (1): WALKING (56316, 49971).
+DEBUG (4): Status packet sent with position (61155, 59117).
+DEBUG (3): Status packet received (STATUS = 2, X = 61155, Y = 59117).
+DEBUG (3): RUNNING (61155, 59117).
+DEBUG (2): Status packet sent with position (49800, 35470).
+DEBUG (1): Status packet received (STATUS = 2, X = 49800, Y = 35470).
+DEBUG (1): RUNNING (49800, 35470).
+DEBUG (4): Status packet sent with position (715, 46877).
+DEBUG (3): Status packet received (STATUS = 1, X = 715, Y = 46877).
+DEBUG (3): WALKING (715, 46877).
+DEBUG (2): Status packet sent with position (13536, 41233).
+DEBUG (1): Status packet received (STATUS = 2, X = 13536, Y = 41233).
+DEBUG (1): RUNNING (13536, 41233).
+DEBUG (4): Status packet sent with position (21930, 34583).
+DEBUG (3): Status packet received (STATUS = 1, X = 21930, Y = 34583).
+DEBUG (3): WALKING (21930, 34583).
+DEBUG (2): Status packet sent with position (26265, 33857).
+DEBUG (1): Status packet received (STATUS = 1, X = 26265, Y = 33857).
+DEBUG (1): WALKING (26265, 33857).
+DEBUG (4): Status packet sent with position (34525, 4390).
+DEBUG (3): Status packet received (STATUS = 1, X = 34525, Y = 4390).
+DEBUG (3): WALKING (34525, 4390).
+DEBUG (2): Status packet sent with position (7608, 55063).
+DEBUG (1): Status packet received (STATUS = 1, X = 7608, Y = 55063).
+DEBUG (1): WALKING (7608, 55063).
+DEBUG (4): Status packet sent with position (42989, 19561).
+DEBUG (2): Status packet sent with position (52008, 11736).
+DEBUG (3): Status packet received (STATUS = 3, X = 42989, Y = 19561).
+DEBUG (3): FALLING (42989, 19561).
+DEBUG (3): FALL ALARM (42989, 19561).
+DEBUG (1): Status packet received (STATUS = 0, X = 52008, Y = 11736).
+DEBUG (1): STANDING (52008, 11736).
